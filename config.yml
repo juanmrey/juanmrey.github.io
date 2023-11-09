@@ -96,7 +96,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Prof. Juan M. Rey"
-      icon: favicon.ico
+      icon: "https://raw.githubusercontent.com/juanmrey/juanmrey.github.io/main/ren_icon.png"
       iconHeight: 18
 
 markup:
