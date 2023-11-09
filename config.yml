@@ -1,7 +1,7 @@
 baseURL: "https://juanmrey.github.io" 
 title: JM Rey
-icon: "https://raw.githubusercontent.com/juanmrey/juanmrey.github.io/main/ren_icon.png"
-iconHeight: 18
+#icon: "https://raw.githubusercontent.com/juanmrey/juanmrey.github.io/main/ren_icon.png"
+#iconHeight: 18
 paginate: 20
 theme: PaperMod
 
@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Prof. Juan M. Rey
-          subtitle: "I am an electrical engineer working on control and design of distributed generation systems and microgrids. Currently, I am Assistant Professor at [UIS](https://uis.edu.co/es/) (Colombia). "
+          subtitle: "I am an electrical engineer working on control and design of distributed generation systems and microgrids. Currently, I am Assistant Professor at *[UIS](https://uis.edu.co/es/)* (Colombia). "
           imageUrl: "https://raw.githubusercontent.com/juanmrey/juanmrey.github.io/main/photo_jm.jpg"
           imageWidth: 160
           imageHeight: 160
