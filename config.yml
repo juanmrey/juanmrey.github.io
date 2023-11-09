@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Prof. Juan M. Rey
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          subtitle: "I am an electrical engineer working on control and design of distributed generation systems and microgrids. Currently, I am Assistant Professor at [UIS](https://https://uis.edu.co/es/) (Colombia). "
           imageUrl: "https://raw.githubusercontent.com/juanmrey/juanmrey.github.io/main/photo_jm.jpg"
           imageWidth: 160
           imageHeight: 160
