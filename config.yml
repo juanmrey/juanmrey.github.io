@@ -1,5 +1,7 @@
 baseURL: "https://juanmrey.github.io" 
 title: JM Rey
+icon: "https://raw.githubusercontent.com/juanmrey/juanmrey.github.io/main/ren_icon.png"
+iconHeight: 18
 paginate: 20
 theme: PaperMod
 
@@ -72,21 +74,21 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:juanmrey@uis.edu.co
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
+        #- name: Office Hours
+        #  url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://scholar.google.es/citations?user=bK0XzGYAAAAJ&hl=es
+        #- name: YouTube
+        # url: https://www.youtube.com/@pmichaillat
+        #- name: GitHub
+        #  url: https://github.com/pmichaillat
+        #- name: Substack
+        #  url: https://pmichaillat.substack.com
+        #- name: Twitter
+        #  url: https://twitter.com/pmichaillat
 
     assets:
         disableHLJS: true
