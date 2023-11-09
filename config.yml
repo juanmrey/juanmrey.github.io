@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "https://juanmrey.github.io" 
 title: Juan M. Rey
 paginate: 20
 theme: PaperMod
