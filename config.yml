@@ -51,7 +51,7 @@ params:
           enabled: true
           title: Prof. Juan M. Rey
           subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "https://github.com/juanmrey/juanmrey.github.io/blob/main/avatar.png"
+          imageUrl: "https://raw.githubusercontent.com/juanmrey/juanmrey.github.io/main/avatar.png"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Juan M. Rey
