@@ -1,7 +1,7 @@
 baseURL: "https://juanmrey.github.io" 
 title: JM Rey
-#icon: "https://raw.githubusercontent.com/juanmrey/juanmrey.github.io/main/ren_icon.png"
-#iconHeight: 18
+icon: favicon.ico
+iconHeight: 18
 paginate: 20
 theme: PaperMod
 
@@ -98,7 +98,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Prof. Juan M. Rey"
-      icon: "https://raw.githubusercontent.com/juanmrey/juanmrey.github.io/main/ren_icon.png"
+      icon: favicon.ico
       iconHeight: 18
 
 markup:
