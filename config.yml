@@ -61,6 +61,8 @@ params:
           imageHeight: 160
           imageTitle: Juan M. Rey
           buttons:
+            - name: Team
+              url: team/
             - name: Papers
               url: papers/
             - name: Courses
