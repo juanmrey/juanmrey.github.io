@@ -11,7 +11,7 @@ cover:
     relative:
 editPost:
     URL: "https://www.mdpi.com/1996-1073/16/3/1052"
-    Text: "Other Journal Name"
+    Text: "Link"
 
 ---
 
@@ -19,15 +19,15 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/unemployment-gap)
++ 
++ 
++ 
 
 ---
 
 ##### Abstract
 
-Distributed power generation plays a critical role in the stability and reliability of modern power systems. Due to the rapid growth of renewable energy generation, the requirements of the transmission and distribution system operators are becoming more stringent. Among these requirements, one of the most important is the Low-Voltage Ride-Through (LVRT) capability, which demands that the inverters remain connected to the grid and provide support during voltage sags. For this purpose, flexible current control algorithms stand out because they can manage unbalanced voltages and simultaneously achieve other control objectives. With the aim of presenting a concrete document focused on describing fundamental principles and discussing common design guidelines, this paper presents an overview of flexible current control strategies applied to LVRT capability. The operation features and design aspects of experiences reported in the literature are reviewed. Moreover, the paper proposes a general methodology to design LVRT flexible current control algorithms. Finally, current and future trends are discussed.
+    Distributed power generation plays a critical role in the stability and reliability of modern power systems. Due to the rapid growth of renewable energy generation, the requirements of the transmission and distribution system operators are becoming more stringent. Among these requirements, one of the most important is the Low-Voltage Ride-Through (LVRT) capability, which demands that the inverters remain connected to the grid and provide support during voltage sags. For this purpose, flexible current control algorithms stand out because they can manage unbalanced voltages and simultaneously achieve other control objectives. With the aim of presenting a concrete document focused on describing fundamental principles and discussing common design guidelines, this paper presents an overview of flexible current control strategies applied to LVRT capability. The operation features and design aspects of experiences reported in the literature are reviewed. Moreover, the paper proposes a general methodology to design LVRT flexible current control algorithms. Finally, current and future trends are discussed.
 ---
 
 ##### Figure X: Figure caption
@@ -57,5 +57,4 @@ year = {2023}}
 
 ##### Related material
 
-+ [Presentation slides](presentation2.pdf)
-
++ 
