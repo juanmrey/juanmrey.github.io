@@ -1,16 +1,16 @@
 ---
-title: "Paper Title 2" 
-date: 2015-12-01
+title: "An Overview of Flexible Current Control Strategies Applied to LVRT Capability for Grid-Connected Inverters" 
+date: 2023
 tags: ["keyword 1","keyword 2","keyword 4"]
-author: ["Author Name 1", "Author Name 2"]
-description: "This paper shows other things. Published in Journal Name, 2015." 
+author: ["David J. Rincon", "Maria A. Mantilla", "Juan M. Rey", "Miguel Garnica", "Damien Guilbert"]
+description: "This paper shows other things. Published in Energies, 2023." 
 summary: "This paper shows other things using other techniques and different data." 
 cover:
-    image: "paper2.png"
-    alt: "Image caption"
-    relative: false
+    image: 
+    alt: 
+    relative:
 editPost:
-    URL: "https://doi.org/10.1073/pnas.1816454115"
+    URL: "https://www.mdpi.com/1996-1073/16/3/1052"
     Text: "Other Journal Name"
 
 ---
